@@ -67,12 +67,12 @@ nav ul li a:hover::after{
     font-size: 25px;
 }
 
-.header-text h2{
+.header-text h1{
     font-size: 42px;
     margin-top: 20px;
 }
 
-.header-text h2 span{
+.header-text h1 span{
     color: #f62f2f;
 }
 
